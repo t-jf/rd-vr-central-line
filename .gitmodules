@@ -1,3 +1,6 @@
 [submodule "papers"]
 	path = papers
 	url = git@github.com:tyfranklin/rd-vr-central-line-papers.git
+[submodule "plastic"]
+	path = plastic
+	url = git@github.com:tyfranklin/rd-vr-central-line-plastic.git
