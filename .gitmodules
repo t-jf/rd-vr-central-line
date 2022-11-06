@@ -7,3 +7,6 @@
 [submodule "landing"]
 	path = landing
 	url = git@github.com:tyfranklin/rd-vr-residency-landing.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:tyfranklin/rd-vr-central-line.wiki
