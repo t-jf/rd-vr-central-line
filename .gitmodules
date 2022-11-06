@@ -4,3 +4,6 @@
 [submodule "plastic"]
 	path = plastic
 	url = git@github.com:tyfranklin/rd-vr-central-line-plastic.git
+[submodule "landing"]
+	path = landing
+	url = git@github.com:tyfranklin/rd-vr-residency-landing.git
