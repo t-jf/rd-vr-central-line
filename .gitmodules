@@ -2,7 +2,7 @@
 	path = papers
 	url = git@github.com:tyfranklin/rd-vr-central-line-papers.git
 [submodule "plastic"]
-	path = plastic
+	path = assets
 	url = git@github.com:tyfranklin/rd-vr-central-line-plastic.git
 [submodule "landing"]
 	path = landing
