@@ -10,3 +10,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:tyfranklin/rd-vr-central-line.wiki
+[submodule "tests"]
+	path = tests
+	url = git@github.com:tyfranklin/rd-vr-central-line-tests.git
