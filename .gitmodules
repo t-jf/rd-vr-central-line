@@ -13,3 +13,6 @@
 [submodule "tests"]
 	path = tests
 	url = git@github.com:tyfranklin/rd-vr-central-line-tests.git
+[submodule "accessories"]
+	path = accessories
+	url = git@github.com:tyfranklin/rd-vr-acc-central-line.git
